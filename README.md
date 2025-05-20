@@ -1,8 +1,9 @@
 # Broadcast analytics - Oportunities and limitations of single camera tracking systems
 
 This repository contains the source code and processing pipelines used in the paper:
-> Bassek, M., Theiner, J., Ewerth, R., Memmert, D., Raabe, D. (2025). Broadcast analytics - 
-> opportunities and limitations of single camera trackings systems. In Revision.
+> Bassek, M., Theiner, J., Ewerth, R., Memmert, D., Raabe, D. (in press). Broadcast analytics - 
+> An evaluation of video-based tracking systems with constrained player visibility.
+> *Science and Medicine in Football*.
 
 ---
 
